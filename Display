@@ -1,0 +1,6 @@
+#inxkide<stdio.h>
+int main()
+{
+printf("hello ,i am beginer");
+return 0;
+}
